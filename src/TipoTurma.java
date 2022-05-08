@@ -1,0 +1,8 @@
+
+public enum TipoTurma {
+
+	ENSINO_INFANTIL,
+	ENSINO_FUNDAMENTAL,
+	ENSINO_MEDIO,
+	FACULDADE;
+}
