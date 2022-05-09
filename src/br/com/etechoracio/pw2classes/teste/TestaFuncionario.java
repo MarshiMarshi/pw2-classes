@@ -1,3 +1,7 @@
+package br.com.etechoracio.pw2classes.teste;
+
+import br.com.etechoracio.pw2classes.model.Endereco;
+import br.com.etechoracio.pw2classes.model.Funcionario;
 
 public class TestaFuncionario {
 
@@ -7,7 +11,7 @@ public class TestaFuncionario {
 		
 		endereco.logradouro = "Não sei";
 		endereco.num = 432;
-		endereco.bairro = "";
+		endereco.bairro = "Bituca";
 		endereco.cidade = "São Paulo";
 		endereco.estado = "SP";
 		

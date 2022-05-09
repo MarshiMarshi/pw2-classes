@@ -1,4 +1,9 @@
+package br.com.etechoracio.pw2classes.teste;
 import java.time.LocalDate;
+
+import br.com.etechoracio.pw2classes.enums.TipoTurmaEnum;
+import br.com.etechoracio.pw2classes.model.Aluno;
+import br.com.etechoracio.pw2classes.model.Turma;
 
 public class TestaAluno {
 	
@@ -8,7 +13,7 @@ public class TestaAluno {
 		
 		turma.periodo = "Tarde";
 		turma.sigla = "2B";
-		turma.tipo = TipoTurma.ENSINO_MEDIO;
+		turma.tipo = TipoTurmaEnum.ENSINO_MEDIO;
 		
 		Aluno aluno = new Aluno();
 		

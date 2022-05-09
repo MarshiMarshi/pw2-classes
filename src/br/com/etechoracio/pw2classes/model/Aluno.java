@@ -1,3 +1,4 @@
+package br.com.etechoracio.pw2classes.model;
 import java.time.LocalDate;
 
 public class Aluno {

@@ -1,3 +1,8 @@
+package br.com.etechoracio.pw2classes.teste;
+
+import br.com.etechoracio.pw2classes.model.Agencia;
+import br.com.etechoracio.pw2classes.model.Banco;
+import br.com.etechoracio.pw2classes.model.Conta;
 
 public class TestaBanco {
 
